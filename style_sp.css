@@ -510,9 +510,11 @@ body {
 }
 .text-10 {
   display: block;
-  left: 4.5px;
-  margin: 11px auto 0;
+  right: 10px;
+  width: 195px;
+  margin: 8px auto 0;
   position: relative;
+  max-width: 195px;
 }
 .cv {
   margin: -289px 0 0;
